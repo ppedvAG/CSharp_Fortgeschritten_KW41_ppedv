@@ -21,8 +21,12 @@ Donnerstag:
     - [ ] Plugin Pattern
 
 Freitag: 
+ - [ ] Sprachfeatures (C# 7 - C# 10)
+ - [ ] Ausblick auf C# 11
  - [ ] Erweiterungsmethoden
  - [ ] Linq/Lambda
+
+Optional:
  - [ ] Serialisierung
  - [ ] Optimierung / Benchmarks
 
