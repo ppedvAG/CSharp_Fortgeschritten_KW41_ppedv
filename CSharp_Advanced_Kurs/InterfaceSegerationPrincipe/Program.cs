@@ -4,7 +4,13 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            AmphibischesFahrzeug2 amphibischesFahrzeug2 = new AmphibischesFahrzeug2();
+
+            //Existiert das Interface ISwim im Objekt-Instanz amphibischesFahrzeug2
+            if (amphibischesFahrzeug2 is ISwim amphibischesSchwimmbaresFahrzeug) // ISwim swimableCar = (ISwim) amphibischesFahrzeug2;
+            {
+
+            }
         }
     }
 

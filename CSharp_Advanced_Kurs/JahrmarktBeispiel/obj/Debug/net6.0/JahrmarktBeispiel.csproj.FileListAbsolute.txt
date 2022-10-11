@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\JahrmarktBeispiel\bin\Debug\net6.0\JahrmarktBeispiel.exe
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\JahrmarktBeispiel\bin\Debug\net6.0\JahrmarktBeispiel.deps.json
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\JahrmarktBeispiel\bin\Debug\net6.0\JahrmarktBeispiel.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\JahrmarktBeispiel\bin\Debug\net6.0\JahrmarktBeispiel.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\JahrmarktBeispiel\bin\Debug\net6.0\JahrmarktBeispiel.pdb
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\JahrmarktBeispiel\obj\Debug\net6.0\JahrmarktBeispiel.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\JahrmarktBeispiel\obj\Debug\net6.0\JahrmarktBeispiel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\JahrmarktBeispiel\obj\Debug\net6.0\JahrmarktBeispiel.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\JahrmarktBeispiel\obj\Debug\net6.0\JahrmarktBeispiel.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\JahrmarktBeispiel\obj\Debug\net6.0\JahrmarktBeispiel.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\JahrmarktBeispiel\obj\Debug\net6.0\JahrmarktBeispiel.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\JahrmarktBeispiel\obj\Debug\net6.0\refint\JahrmarktBeispiel.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\JahrmarktBeispiel\obj\Debug\net6.0\JahrmarktBeispiel.pdb
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\JahrmarktBeispiel\obj\Debug\net6.0\JahrmarktBeispiel.genruntimeconfig.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\JahrmarktBeispiel\obj\Debug\net6.0\ref\JahrmarktBeispiel.dll

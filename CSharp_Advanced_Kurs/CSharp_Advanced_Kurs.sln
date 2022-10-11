@@ -5,23 +5,31 @@ VisualStudioVersion = 17.3.32901.215
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SOLID", "SOLID", "{4F1FE62D-B0BC-4A90-B28D-E61D6C993216}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingleResponsibilityPrincipe", "SingleResponsibilityPrincipe\SingleResponsibilityPrincipe.csproj", "{87FB6779-0847-4D83-80E3-F3DFA9F3A838}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SingleResponsibilityPrincipe", "SingleResponsibilityPrincipe\SingleResponsibilityPrincipe.csproj", "{87FB6779-0847-4D83-80E3-F3DFA9F3A838}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenClosePrincipe", "OpenClosePrincipe\OpenClosePrincipe.csproj", "{36268633-1ECE-44CF-921C-FFD183331343}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpenClosePrincipe", "OpenClosePrincipe\OpenClosePrincipe.csproj", "{36268633-1ECE-44CF-921C-FFD183331343}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LizkovischePrincipe", "LizkovischePrincipe\LizkovischePrincipe.csproj", "{70557CF1-3369-4CEB-8431-C4F3C7FF8E27}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LizkovischePrincipe", "LizkovischePrincipe\LizkovischePrincipe.csproj", "{70557CF1-3369-4CEB-8431-C4F3C7FF8E27}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceSegerationPrincipe", "InterfaceSegerationPrincipe\InterfaceSegerationPrincipe.csproj", "{51BADD06-6C81-4AEF-9D91-C9FD8584B797}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InterfaceSegerationPrincipe", "InterfaceSegerationPrincipe\InterfaceSegerationPrincipe.csproj", "{51BADD06-6C81-4AEF-9D91-C9FD8584B797}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependencyInversion", "DependencyInversion\DependencyInversion.csproj", "{B0F880C9-AD8E-4226-8F31-ACA5397D9992}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DependencyInversion", "DependencyInversion\DependencyInversion.csproj", "{B0F880C9-AD8E-4226-8F31-ACA5397D9992}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DelegatesEventsEventHandler", "DelegatesEventsEventHandler", "{6D74CC8B-5773-458C-B907-9E4DDDAE8C7F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegatesActionFuncSample", "DelegatesActionFuncSample\DelegatesActionFuncSample.csproj", "{8146ED6C-579D-4049-8001-165456FA8C81}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DelegatesActionFuncSample", "DelegatesActionFuncSample\DelegatesActionFuncSample.csproj", "{8146ED6C-579D-4049-8001-165456FA8C81}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CallbackSampleWithDelegates", "CallbackSampleWithDelegates\CallbackSampleWithDelegates.csproj", "{1491A9D9-4113-4645-BA65-6A7128A4F45D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CallbackSampleWithDelegates", "CallbackSampleWithDelegates\CallbackSampleWithDelegates.csproj", "{1491A9D9-4113-4645-BA65-6A7128A4F45D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegateEventsAndEventHandler", "DelegateEventsAndEventHandler\DelegateEventsAndEventHandler.csproj", "{2DFAD682-088A-4471-88CC-94B03B56004D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DelegateEventsAndEventHandler", "DelegateEventsAndEventHandler\DelegateEventsAndEventHandler.csproj", "{2DFAD682-088A-4471-88CC-94B03B56004D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "InterfacesExample", "InterfacesExample", "{C0596EF6-7A98-4C6B-A6B2-05F42C7C0AE5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JahrmarktBeispiel", "JahrmarktBeispiel\JahrmarktBeispiel.csproj", "{3A9882FB-AB55-4C09-8FDD-4C9CB9995A1B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IOCSample", "IOCSample\IOCSample.csproj", "{F466BD86-3681-4BA6-A04C-4E06AF76697D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IOCSampleInWebAPI", "IOCSampleInWebAPI\IOCSampleInWebAPI.csproj", "{7B55EEE9-309C-4163-95DF-076E46E08152}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -61,6 +69,18 @@ Global
 		{2DFAD682-088A-4471-88CC-94B03B56004D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2DFAD682-088A-4471-88CC-94B03B56004D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2DFAD682-088A-4471-88CC-94B03B56004D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A9882FB-AB55-4C09-8FDD-4C9CB9995A1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A9882FB-AB55-4C09-8FDD-4C9CB9995A1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A9882FB-AB55-4C09-8FDD-4C9CB9995A1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A9882FB-AB55-4C09-8FDD-4C9CB9995A1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F466BD86-3681-4BA6-A04C-4E06AF76697D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F466BD86-3681-4BA6-A04C-4E06AF76697D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F466BD86-3681-4BA6-A04C-4E06AF76697D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F466BD86-3681-4BA6-A04C-4E06AF76697D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B55EEE9-309C-4163-95DF-076E46E08152}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B55EEE9-309C-4163-95DF-076E46E08152}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B55EEE9-309C-4163-95DF-076E46E08152}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B55EEE9-309C-4163-95DF-076E46E08152}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -74,6 +94,9 @@ Global
 		{8146ED6C-579D-4049-8001-165456FA8C81} = {6D74CC8B-5773-458C-B907-9E4DDDAE8C7F}
 		{1491A9D9-4113-4645-BA65-6A7128A4F45D} = {6D74CC8B-5773-458C-B907-9E4DDDAE8C7F}
 		{2DFAD682-088A-4471-88CC-94B03B56004D} = {6D74CC8B-5773-458C-B907-9E4DDDAE8C7F}
+		{3A9882FB-AB55-4C09-8FDD-4C9CB9995A1B} = {C0596EF6-7A98-4C6B-A6B2-05F42C7C0AE5}
+		{F466BD86-3681-4BA6-A04C-4E06AF76697D} = {C0596EF6-7A98-4C6B-A6B2-05F42C7C0AE5}
+		{7B55EEE9-309C-4163-95DF-076E46E08152} = {C0596EF6-7A98-4C6B-A6B2-05F42C7C0AE5}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F1D6B11C-1CC6-4641-8330-23DC21076320}
