@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\001_ThreadStarten\bin\Debug\net6.0\001_ThreadStarten.exe
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\001_ThreadStarten\bin\Debug\net6.0\001_ThreadStarten.deps.json
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\001_ThreadStarten\bin\Debug\net6.0\001_ThreadStarten.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\001_ThreadStarten\bin\Debug\net6.0\001_ThreadStarten.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\001_ThreadStarten\bin\Debug\net6.0\001_ThreadStarten.pdb
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\001_ThreadStarten\obj\Debug\net6.0\001_ThreadStarten.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\001_ThreadStarten\obj\Debug\net6.0\001_ThreadStarten.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\001_ThreadStarten\obj\Debug\net6.0\001_ThreadStarten.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\001_ThreadStarten\obj\Debug\net6.0\001_ThreadStarten.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\001_ThreadStarten\obj\Debug\net6.0\001_ThreadStarten.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\001_ThreadStarten\obj\Debug\net6.0\001_ThreadStarten.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\001_ThreadStarten\obj\Debug\net6.0\refint\001_ThreadStarten.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\001_ThreadStarten\obj\Debug\net6.0\001_ThreadStarten.pdb
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\001_ThreadStarten\obj\Debug\net6.0\001_ThreadStarten.genruntimeconfig.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\001_ThreadStarten\obj\Debug\net6.0\ref\001_ThreadStarten.dll

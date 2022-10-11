@@ -130,6 +130,8 @@
             {
                 OnPercentValueChanged(i);
             }
+
+            OnProcessCompleted();
         }
 
         protected virtual void OnPercentValueChanged(int i)
