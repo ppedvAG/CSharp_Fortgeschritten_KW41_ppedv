@@ -11,6 +11,8 @@
             Thread thread = new Thread(threadWithStateClass.ThreadProc);
             thread.Start();
 
+            
+
             Console.ReadLine();
         }
 

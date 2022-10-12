@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\Mutex_ProgramInstance\bin\Debug\net6.0\Mutex_ProgramInstance.exe
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\Mutex_ProgramInstance\bin\Debug\net6.0\Mutex_ProgramInstance.deps.json
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\Mutex_ProgramInstance\bin\Debug\net6.0\Mutex_ProgramInstance.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\Mutex_ProgramInstance\bin\Debug\net6.0\Mutex_ProgramInstance.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\Mutex_ProgramInstance\bin\Debug\net6.0\Mutex_ProgramInstance.pdb
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\Mutex_ProgramInstance\obj\Debug\net6.0\Mutex_ProgramInstance.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\Mutex_ProgramInstance\obj\Debug\net6.0\Mutex_ProgramInstance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\Mutex_ProgramInstance\obj\Debug\net6.0\Mutex_ProgramInstance.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\Mutex_ProgramInstance\obj\Debug\net6.0\Mutex_ProgramInstance.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\Mutex_ProgramInstance\obj\Debug\net6.0\Mutex_ProgramInstance.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\Mutex_ProgramInstance\obj\Debug\net6.0\Mutex_ProgramInstance.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\Mutex_ProgramInstance\obj\Debug\net6.0\refint\Mutex_ProgramInstance.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\Mutex_ProgramInstance\obj\Debug\net6.0\Mutex_ProgramInstance.pdb
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\Mutex_ProgramInstance\obj\Debug\net6.0\Mutex_ProgramInstance.genruntimeconfig.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\Mutex_ProgramInstance\obj\Debug\net6.0\ref\Mutex_ProgramInstance.dll

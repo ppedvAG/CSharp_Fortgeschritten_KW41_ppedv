@@ -11,13 +11,21 @@
             //Variante 1 mit anonyme Methode 
             Thread thread = new Thread(() =>
             {
+                //Thread-Kontext 
                 retString = StringToUpper(meinText);
             });
 
+            thread.Start();//brauche ich das? Oder wird direkt gestartet?
+
+            thread.Join();
+
+
+            Thread.Sleep(5000);
+
             //Variante 2 mit ausgelagerte Methode
-            Thread thread2 = new Thread(AusgelagerteMethode);
-            thread2.Start();
-            thread2.Join();
+            //Thread thread2 = new Thread(AusgelagerteMethode);
+            //thread2.Start();
+            //thread2.Join();
 
             Console.ReadLine();
 

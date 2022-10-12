@@ -10,9 +10,7 @@
 
             //Ab .NET 4.0 im Rahmen von TPL ist die Klasse CancellationTokenSource und CancellationToken hinzugekommen
             CancellationTokenSource tokenSource = new CancellationTokenSource();
-            CancellationToken token = tokenSource.Token;
-
-            thread.Start(token);
+            thread.Start(tokenSource.Token);
 
             Thread.Sleep(3000);
             tokenSource.Cancel(); //Nach 3 Sekunden signalisieren wir, dass wir den Thread beenden wollen 
@@ -28,8 +26,6 @@
         {
             try
             {
-
-
                 if (param is CancellationToken cancellationToken)
                 {
                     ParameterizedThreadStart parameterizedThreadStart = new ParameterizedThreadStart(MachEtwas2);

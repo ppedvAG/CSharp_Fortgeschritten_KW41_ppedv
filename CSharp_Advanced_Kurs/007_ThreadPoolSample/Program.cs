@@ -21,6 +21,11 @@
 
         static void Methode1(object state)
         {
+            if (state is int stateInteger)
+            {
+                //....
+            }
+
             Thread.Sleep(1000);
             for (int i = 0; i < 100; i++)
             {

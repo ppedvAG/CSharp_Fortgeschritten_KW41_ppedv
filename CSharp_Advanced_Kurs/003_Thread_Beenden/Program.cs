@@ -2,6 +2,7 @@
 {
     internal class Program
     {
+        //.NET Framwork < 4.0 -> dann wäre dies eine Kompromisslösung
         static void Main(string[] args)
         {
             Thread thread = new Thread(MachEtwas);
