@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\006_ContinueWithSample\bin\Debug\net6.0\006_ContinueWithSample.exe
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\006_ContinueWithSample\bin\Debug\net6.0\006_ContinueWithSample.deps.json
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\006_ContinueWithSample\bin\Debug\net6.0\006_ContinueWithSample.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\006_ContinueWithSample\bin\Debug\net6.0\006_ContinueWithSample.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\006_ContinueWithSample\bin\Debug\net6.0\006_ContinueWithSample.pdb
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\006_ContinueWithSample\obj\Debug\net6.0\006_ContinueWithSample.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\006_ContinueWithSample\obj\Debug\net6.0\006_ContinueWithSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\006_ContinueWithSample\obj\Debug\net6.0\006_ContinueWithSample.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\006_ContinueWithSample\obj\Debug\net6.0\006_ContinueWithSample.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\006_ContinueWithSample\obj\Debug\net6.0\006_ContinueWithSample.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\006_ContinueWithSample\obj\Debug\net6.0\006_ContinueWithSample.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\006_ContinueWithSample\obj\Debug\net6.0\refint\006_ContinueWithSample.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\006_ContinueWithSample\obj\Debug\net6.0\006_ContinueWithSample.pdb
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\006_ContinueWithSample\obj\Debug\net6.0\006_ContinueWithSample.genruntimeconfig.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\006_ContinueWithSample\obj\Debug\net6.0\ref\006_ContinueWithSample.dll
