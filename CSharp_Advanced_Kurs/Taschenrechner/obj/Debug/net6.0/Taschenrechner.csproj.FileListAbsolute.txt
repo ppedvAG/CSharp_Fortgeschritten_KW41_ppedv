@@ -1,0 +1,12 @@
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\TaschenrechnerApp\bin\Debug\net6.0\Taschenrechner.deps.json
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\TaschenrechnerApp\bin\Debug\net6.0\Taschenrechner.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\TaschenrechnerApp\bin\Debug\net6.0\Taschenrechner.pdb
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\Taschenrechner\obj\Debug\net6.0\Taschenrechner.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\Taschenrechner\obj\Debug\net6.0\Taschenrechner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\Taschenrechner\obj\Debug\net6.0\Taschenrechner.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\Taschenrechner\obj\Debug\net6.0\Taschenrechner.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\Taschenrechner\obj\Debug\net6.0\Taschenrechner.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\Taschenrechner\obj\Debug\net6.0\Taschenrechner.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\Taschenrechner\obj\Debug\net6.0\refint\Taschenrechner.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\Taschenrechner\obj\Debug\net6.0\Taschenrechner.pdb
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\Taschenrechner\obj\Debug\net6.0\ref\Taschenrechner.dll

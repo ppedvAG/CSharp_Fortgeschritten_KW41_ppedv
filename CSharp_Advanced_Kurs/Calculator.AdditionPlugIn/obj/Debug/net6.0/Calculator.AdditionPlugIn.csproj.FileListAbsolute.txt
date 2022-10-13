@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\Calculator.AdditionPlugIn\bin\Debug\net6.0\Calculator.AdditionPlugIn.deps.json
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\Calculator.AdditionPlugIn\bin\Debug\net6.0\Calculator.AdditionPlugIn.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\Calculator.AdditionPlugIn\bin\Debug\net6.0\Calculator.AdditionPlugIn.pdb
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\Calculator.AdditionPlugIn\bin\Debug\net6.0\Calculator.PluginBase.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\Calculator.AdditionPlugIn\bin\Debug\net6.0\Calculator.PluginBase.pdb
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\Calculator.AdditionPlugIn\obj\Debug\net6.0\Calculator.AdditionPlugIn.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\Calculator.AdditionPlugIn\obj\Debug\net6.0\Calculator.AdditionPlugIn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\Calculator.AdditionPlugIn\obj\Debug\net6.0\Calculator.AdditionPlugIn.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\Calculator.AdditionPlugIn\obj\Debug\net6.0\Calculator.AdditionPlugIn.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\Calculator.AdditionPlugIn\obj\Debug\net6.0\Calculator.AdditionPlugIn.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\Calculator.AdditionPlugIn\obj\Debug\net6.0\Calculator.AdditionPlugIn.csproj.CopyComplete
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\Calculator.AdditionPlugIn\obj\Debug\net6.0\Calculator.AdditionPlugIn.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\Calculator.AdditionPlugIn\obj\Debug\net6.0\refint\Calculator.AdditionPlugIn.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\Calculator.AdditionPlugIn\obj\Debug\net6.0\Calculator.AdditionPlugIn.pdb
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\Calculator.AdditionPlugIn\obj\Debug\net6.0\ref\Calculator.AdditionPlugIn.dll

@@ -1,0 +1,12 @@
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\Calculator.PluginBase\bin\Debug\net6.0\Calculator.PluginBase.deps.json
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\Calculator.PluginBase\bin\Debug\net6.0\Calculator.PluginBase.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\Calculator.PluginBase\bin\Debug\net6.0\Calculator.PluginBase.pdb
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\Calculator.PluginBase\obj\Debug\net6.0\Calculator.PluginBase.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\Calculator.PluginBase\obj\Debug\net6.0\Calculator.PluginBase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\Calculator.PluginBase\obj\Debug\net6.0\Calculator.PluginBase.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\Calculator.PluginBase\obj\Debug\net6.0\Calculator.PluginBase.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\Calculator.PluginBase\obj\Debug\net6.0\Calculator.PluginBase.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\Calculator.PluginBase\obj\Debug\net6.0\Calculator.PluginBase.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\Calculator.PluginBase\obj\Debug\net6.0\refint\Calculator.PluginBase.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\Calculator.PluginBase\obj\Debug\net6.0\Calculator.PluginBase.pdb
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\Calculator.PluginBase\obj\Debug\net6.0\ref\Calculator.PluginBase.dll

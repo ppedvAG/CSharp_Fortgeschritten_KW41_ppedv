@@ -5,15 +5,15 @@ Email: KevinW@ppedv.de
 Themen
 
 Montag 
-- [ ] NET Frameworks
-- [ ] Solid 
+- [x] NET Frameworks
+- [x] Solid 
 
 Dienstag
-- [ ] Delegates / Events /EventHandler
-- [ ] Threading
+- [x] Delegates / Events /EventHandler
+- [x] Threading
 
 Mittwoch:
-- [ ] TPL
+- [x] TPL
 
 Donnerstag:
 - [ ] Generics 

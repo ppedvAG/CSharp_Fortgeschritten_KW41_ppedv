@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\TaschenrechnerApp\bin\Debug\net6.0\TaschenrechnerApp.exe
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\TaschenrechnerApp\bin\Debug\net6.0\TaschenrechnerApp.deps.json
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\TaschenrechnerApp\bin\Debug\net6.0\TaschenrechnerApp.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\TaschenrechnerApp\bin\Debug\net6.0\TaschenrechnerApp.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\TaschenrechnerApp\bin\Debug\net6.0\TaschenrechnerApp.pdb
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\TaschenrechnerApp\obj\Debug\net6.0\TaschenrechnerApp.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\TaschenrechnerApp\obj\Debug\net6.0\TaschenrechnerApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\TaschenrechnerApp\obj\Debug\net6.0\TaschenrechnerApp.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\TaschenrechnerApp\obj\Debug\net6.0\TaschenrechnerApp.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\TaschenrechnerApp\obj\Debug\net6.0\TaschenrechnerApp.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\TaschenrechnerApp\obj\Debug\net6.0\TaschenrechnerApp.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\TaschenrechnerApp\obj\Debug\net6.0\refint\TaschenrechnerApp.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\TaschenrechnerApp\obj\Debug\net6.0\TaschenrechnerApp.pdb
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\TaschenrechnerApp\obj\Debug\net6.0\TaschenrechnerApp.genruntimeconfig.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\TaschenrechnerApp\obj\Debug\net6.0\ref\TaschenrechnerApp.dll

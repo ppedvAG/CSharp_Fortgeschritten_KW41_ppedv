@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fLm7QKG63FZZJxOrIsszfbobpsLf3cPO0psGnENMhvZvnKAndGRYG/AfRSjn4ynzvt9p64yye2kkJ4dCz1iMSA==",
+  "success": true,
+  "projectFilePath": "C:\\Aktueller Kurs\\CSharp_Fortgeschritten_KW41_ppedv\\AppWithPlugin\\XcopyablePlugin\\XcopyablePlugin.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kw4\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

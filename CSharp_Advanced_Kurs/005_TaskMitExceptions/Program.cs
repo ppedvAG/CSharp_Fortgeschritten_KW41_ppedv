@@ -18,9 +18,11 @@
 
                 t4 = Task.Run(MachKeinenFehler);
 
+
+                //Task.WaitAny(t1, t2, t3, t4);
                 Task.WaitAll(t1, t2, t3, t4); //Ab hier bekommen wir mit, ob es eine Exception gab 
             }
-            catch ( AggregateException ex)
+            catch (AggregateException ex)
             {
                 foreach (Exception ex2 in ex.InnerExceptions )
                 {

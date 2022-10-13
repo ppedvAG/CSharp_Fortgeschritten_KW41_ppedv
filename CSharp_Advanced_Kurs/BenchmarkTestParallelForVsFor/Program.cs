@@ -12,7 +12,13 @@ namespace BenchmarkTestParallelForVsFor
 
             Stopwatch watch = new Stopwatch();
 
-            for (int i = 0; i < durchgänge.Length; i++)
+
+            //foreach (int i in durchgänge)
+            //{
+
+            //}
+
+            for (int i = 0; i < durchgänge.Length; i+=2)
             {
                 Console.WriteLine($"Schleifenanzahl - Test:  {durchgänge[i]}");
 
@@ -47,7 +53,7 @@ namespace BenchmarkTestParallelForVsFor
         private static void ParallelFor(int durchgänge)
         {
             double[] erg = new double[durchgänge];
-
+            
             Parallel.For(0, durchgänge, i =>
             {
                 erg[i] = ((Math.Pow(i, 0.33333333333333333333333333333333333333333333) * Math.Sin(i + 2)) / Math.Exp(i) + Math.Log(i + 1)) * Math.Sqrt(i + 100);
