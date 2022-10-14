@@ -1,0 +1,12 @@
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\MyApp.DAL\bin\Debug\net6.0\MyApp.DAL.deps.json
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\MyApp.DAL\bin\Debug\net6.0\MyApp.DAL.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\MyApp.DAL\bin\Debug\net6.0\MyApp.DAL.pdb
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\MyApp.DAL\obj\Debug\net6.0\MyApp.DAL.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\MyApp.DAL\obj\Debug\net6.0\MyApp.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\MyApp.DAL\obj\Debug\net6.0\MyApp.DAL.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\MyApp.DAL\obj\Debug\net6.0\MyApp.DAL.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\MyApp.DAL\obj\Debug\net6.0\MyApp.DAL.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\MyApp.DAL\obj\Debug\net6.0\MyApp.DAL.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\MyApp.DAL\obj\Debug\net6.0\refint\MyApp.DAL.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\MyApp.DAL\obj\Debug\net6.0\MyApp.DAL.pdb
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\MyApp.DAL\obj\Debug\net6.0\ref\MyApp.DAL.dll

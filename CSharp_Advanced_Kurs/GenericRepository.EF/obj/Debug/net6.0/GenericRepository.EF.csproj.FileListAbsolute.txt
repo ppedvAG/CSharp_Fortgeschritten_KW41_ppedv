@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\GenericRepository.EF\bin\Debug\net6.0\GenericRepository.EF.deps.json
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\GenericRepository.EF\bin\Debug\net6.0\GenericRepository.EF.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\GenericRepository.EF\bin\Debug\net6.0\GenericRepository.EF.pdb
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\GenericRepository.EF\bin\Debug\net6.0\GenericRepository.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\GenericRepository.EF\bin\Debug\net6.0\GenericRepository.pdb
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\GenericRepository.EF\obj\Debug\net6.0\GenericRepository.EF.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\GenericRepository.EF\obj\Debug\net6.0\GenericRepository.EF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\GenericRepository.EF\obj\Debug\net6.0\GenericRepository.EF.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\GenericRepository.EF\obj\Debug\net6.0\GenericRepository.EF.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\GenericRepository.EF\obj\Debug\net6.0\GenericRepository.EF.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\GenericRepository.EF\obj\Debug\net6.0\GenericRepository.EF.csproj.CopyComplete
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\GenericRepository.EF\obj\Debug\net6.0\GenericRepository.EF.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\GenericRepository.EF\obj\Debug\net6.0\refint\GenericRepository.EF.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\GenericRepository.EF\obj\Debug\net6.0\GenericRepository.EF.pdb
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\GenericRepository.EF\obj\Debug\net6.0\ref\GenericRepository.EF.dll

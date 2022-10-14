@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\010_AsyncAwaitSample\bin\Debug\net6.0\010_AsyncAwaitSample.exe
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\010_AsyncAwaitSample\bin\Debug\net6.0\010_AsyncAwaitSample.deps.json
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\010_AsyncAwaitSample\bin\Debug\net6.0\010_AsyncAwaitSample.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\010_AsyncAwaitSample\bin\Debug\net6.0\010_AsyncAwaitSample.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\010_AsyncAwaitSample\bin\Debug\net6.0\010_AsyncAwaitSample.pdb
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\010_AsyncAwaitSample\obj\Debug\net6.0\010_AsyncAwaitSample.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\010_AsyncAwaitSample\obj\Debug\net6.0\010_AsyncAwaitSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\010_AsyncAwaitSample\obj\Debug\net6.0\010_AsyncAwaitSample.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\010_AsyncAwaitSample\obj\Debug\net6.0\010_AsyncAwaitSample.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\010_AsyncAwaitSample\obj\Debug\net6.0\010_AsyncAwaitSample.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\010_AsyncAwaitSample\obj\Debug\net6.0\010_AsyncAwaitSample.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\010_AsyncAwaitSample\obj\Debug\net6.0\refint\010_AsyncAwaitSample.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\010_AsyncAwaitSample\obj\Debug\net6.0\010_AsyncAwaitSample.pdb
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\010_AsyncAwaitSample\obj\Debug\net6.0\010_AsyncAwaitSample.genruntimeconfig.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\010_AsyncAwaitSample\obj\Debug\net6.0\ref\010_AsyncAwaitSample.dll

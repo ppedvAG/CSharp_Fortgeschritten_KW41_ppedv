@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\HelloRecords\bin\Debug\net6.0\HelloRecords.exe
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\HelloRecords\bin\Debug\net6.0\HelloRecords.deps.json
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\HelloRecords\bin\Debug\net6.0\HelloRecords.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\HelloRecords\bin\Debug\net6.0\HelloRecords.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\HelloRecords\bin\Debug\net6.0\HelloRecords.pdb
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\HelloRecords\obj\Debug\net6.0\HelloRecords.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\HelloRecords\obj\Debug\net6.0\HelloRecords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\HelloRecords\obj\Debug\net6.0\HelloRecords.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\HelloRecords\obj\Debug\net6.0\HelloRecords.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\HelloRecords\obj\Debug\net6.0\HelloRecords.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\HelloRecords\obj\Debug\net6.0\HelloRecords.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\HelloRecords\obj\Debug\net6.0\refint\HelloRecords.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\HelloRecords\obj\Debug\net6.0\HelloRecords.pdb
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\HelloRecords\obj\Debug\net6.0\HelloRecords.genruntimeconfig.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\HelloRecords\obj\Debug\net6.0\ref\HelloRecords.dll

@@ -16,19 +16,20 @@ Mittwoch:
 - [x] TPL
 
 Donnerstag:
-- [ ] Generics 
-- [ ] Reflections
-    - [ ] Plugin Pattern
+- [x] Generics 
+- [x] Reflections
+    - [x] Plugin Pattern
 
 Freitag: 
  - [ ] Sprachfeatures (C# 7 - C# 10)
  - [ ] Ausblick auf C# 11
- - [ ] Erweiterungsmethoden
- - [ ] Linq/Lambda
-
+ - [x] Erweiterungsmethoden
+ - [x] Linq/Lambda
+ - [x] Serialisierung
+ - [x] Optimierung / Benchmarks
 Optional:
- - [ ] Serialisierung
- - [ ] Optimierung / Benchmarks
+
+
 
 
 

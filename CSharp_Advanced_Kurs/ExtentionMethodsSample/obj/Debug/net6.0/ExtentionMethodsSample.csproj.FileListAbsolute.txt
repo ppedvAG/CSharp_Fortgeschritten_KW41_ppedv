@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\ExtentionMethodsSample\bin\Debug\net6.0\ExtentionMethodsSample.exe
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\ExtentionMethodsSample\bin\Debug\net6.0\ExtentionMethodsSample.deps.json
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\ExtentionMethodsSample\bin\Debug\net6.0\ExtentionMethodsSample.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\ExtentionMethodsSample\bin\Debug\net6.0\ExtentionMethodsSample.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\ExtentionMethodsSample\bin\Debug\net6.0\ExtentionMethodsSample.pdb
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\ExtentionMethodsSample\obj\Debug\net6.0\ExtentionMethodsSample.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\ExtentionMethodsSample\obj\Debug\net6.0\ExtentionMethodsSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\ExtentionMethodsSample\obj\Debug\net6.0\ExtentionMethodsSample.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\ExtentionMethodsSample\obj\Debug\net6.0\ExtentionMethodsSample.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\ExtentionMethodsSample\obj\Debug\net6.0\ExtentionMethodsSample.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\ExtentionMethodsSample\obj\Debug\net6.0\ExtentionMethodsSample.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\ExtentionMethodsSample\obj\Debug\net6.0\refint\ExtentionMethodsSample.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\ExtentionMethodsSample\obj\Debug\net6.0\ExtentionMethodsSample.pdb
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\ExtentionMethodsSample\obj\Debug\net6.0\ExtentionMethodsSample.genruntimeconfig.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\ExtentionMethodsSample\obj\Debug\net6.0\ref\ExtentionMethodsSample.dll

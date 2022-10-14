@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\002_HelloConstraints\bin\Debug\net6.0\002_HelloConstraints.exe
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\002_HelloConstraints\bin\Debug\net6.0\002_HelloConstraints.deps.json
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\002_HelloConstraints\bin\Debug\net6.0\002_HelloConstraints.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\002_HelloConstraints\bin\Debug\net6.0\002_HelloConstraints.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\002_HelloConstraints\bin\Debug\net6.0\002_HelloConstraints.pdb
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\002_HelloConstraints\obj\Debug\net6.0\002_HelloConstraints.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\002_HelloConstraints\obj\Debug\net6.0\002_HelloConstraints.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\002_HelloConstraints\obj\Debug\net6.0\002_HelloConstraints.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\002_HelloConstraints\obj\Debug\net6.0\002_HelloConstraints.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\002_HelloConstraints\obj\Debug\net6.0\002_HelloConstraints.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\002_HelloConstraints\obj\Debug\net6.0\002_HelloConstraints.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\002_HelloConstraints\obj\Debug\net6.0\refint\002_HelloConstraints.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\002_HelloConstraints\obj\Debug\net6.0\002_HelloConstraints.pdb
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\002_HelloConstraints\obj\Debug\net6.0\002_HelloConstraints.genruntimeconfig.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\002_HelloConstraints\obj\Debug\net6.0\ref\002_HelloConstraints.dll

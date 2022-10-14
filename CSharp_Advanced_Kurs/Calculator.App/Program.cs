@@ -41,6 +41,9 @@ namespace Calculator.App
             double zahl1 = 32;
             double zahl2 = 8;
 
+
+            Console.WriteLine($"Es sind {geladenePlugins.Count} Plugins geladen");
+
             foreach (ICalculatorPlugIn plugin in geladenePlugins)
                 Console.WriteLine($"{zahl1} {plugin.OperatorDescription} {zahl2} = {plugin.Operation(zahl1, zahl2)}");
 

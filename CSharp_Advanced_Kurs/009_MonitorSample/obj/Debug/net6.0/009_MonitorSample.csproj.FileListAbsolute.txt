@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\009_MonitorSample\bin\Debug\net6.0\009_MonitorSample.exe
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\009_MonitorSample\bin\Debug\net6.0\009_MonitorSample.deps.json
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\009_MonitorSample\bin\Debug\net6.0\009_MonitorSample.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\009_MonitorSample\bin\Debug\net6.0\009_MonitorSample.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\009_MonitorSample\bin\Debug\net6.0\009_MonitorSample.pdb
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\009_MonitorSample\obj\Debug\net6.0\009_MonitorSample.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\009_MonitorSample\obj\Debug\net6.0\009_MonitorSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\009_MonitorSample\obj\Debug\net6.0\009_MonitorSample.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\009_MonitorSample\obj\Debug\net6.0\009_MonitorSample.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\009_MonitorSample\obj\Debug\net6.0\009_MonitorSample.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\009_MonitorSample\obj\Debug\net6.0\009_MonitorSample.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\009_MonitorSample\obj\Debug\net6.0\refint\009_MonitorSample.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\009_MonitorSample\obj\Debug\net6.0\009_MonitorSample.pdb
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\009_MonitorSample\obj\Debug\net6.0\009_MonitorSample.genruntimeconfig.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\009_MonitorSample\obj\Debug\net6.0\ref\009_MonitorSample.dll

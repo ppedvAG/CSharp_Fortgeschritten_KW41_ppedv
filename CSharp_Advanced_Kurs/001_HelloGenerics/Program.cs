@@ -18,6 +18,8 @@ namespace _001_HelloGenerics
                 Console.WriteLine(currentCity.Name);
             #endregion
 
+
+
             #region IDictionary / Dictionary
             Dictionary<int, City> cityDictionary = new Dictionary<int, City>();
 
@@ -54,6 +56,9 @@ namespace _001_HelloGenerics
             DataStore<City> cityDataStore = new DataStore<City>();
             cityDataStore.AddOrUpdate(0, new City { Name = "New York", Population = 18000000 });
 
+            //Aufruf einer generische Methode
+            cityDataStore.GenerischeMethode<string>();
+
             #endregion
 
         }
@@ -89,6 +94,14 @@ namespace _001_HelloGenerics
                 return _data[index];
             else
                 throw new IndexOutOfRangeException();
+        }
+
+        //Factory Methode
+        public MyType GenerischeMethode<MyType>() 
+            where MyType : class
+        {
+            MyType variable = default!;
+            return variable;
         }
     }
 

@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\NullableDatatypesSample\bin\Debug\net6.0\NullableDatatypesSample.exe
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\NullableDatatypesSample\bin\Debug\net6.0\NullableDatatypesSample.deps.json
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\NullableDatatypesSample\bin\Debug\net6.0\NullableDatatypesSample.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\NullableDatatypesSample\bin\Debug\net6.0\NullableDatatypesSample.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\NullableDatatypesSample\bin\Debug\net6.0\NullableDatatypesSample.pdb
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\NullableDatatypesSample\obj\Debug\net6.0\NullableDatatypesSample.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\NullableDatatypesSample\obj\Debug\net6.0\NullableDatatypesSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\NullableDatatypesSample\obj\Debug\net6.0\NullableDatatypesSample.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\NullableDatatypesSample\obj\Debug\net6.0\NullableDatatypesSample.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\NullableDatatypesSample\obj\Debug\net6.0\NullableDatatypesSample.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\NullableDatatypesSample\obj\Debug\net6.0\NullableDatatypesSample.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\NullableDatatypesSample\obj\Debug\net6.0\refint\NullableDatatypesSample.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\NullableDatatypesSample\obj\Debug\net6.0\NullableDatatypesSample.pdb
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\NullableDatatypesSample\obj\Debug\net6.0\NullableDatatypesSample.genruntimeconfig.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW41_ppedv\CSharp_Advanced_Kurs\NullableDatatypesSample\obj\Debug\net6.0\ref\NullableDatatypesSample.dll

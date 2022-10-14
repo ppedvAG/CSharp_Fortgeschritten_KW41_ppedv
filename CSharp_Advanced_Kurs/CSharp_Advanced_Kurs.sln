@@ -94,35 +94,57 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HalloAsync", "HalloAsync_WP
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Generics", "Generics", "{61C3043B-8197-409F-B48E-7A61E76DC8E9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001_HelloGenerics", "001_HelloGenerics\001_HelloGenerics.csproj", "{62127AE5-DA1B-444E-BC94-B27512138236}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "001_HelloGenerics", "001_HelloGenerics\001_HelloGenerics.csproj", "{62127AE5-DA1B-444E-BC94-B27512138236}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002_HelloConstraints", "002_HelloConstraints\002_HelloConstraints.csproj", "{0788B8EA-B12F-4E3D-AFB5-705F5E9D568A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "002_HelloConstraints", "002_HelloConstraints\002_HelloConstraints.csproj", "{0788B8EA-B12F-4E3D-AFB5-705F5E9D568A}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericLab", "GenericLab\GenericLab.csproj", "{D8709ADE-6E05-4414-A362-7AD40590AB01}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "RepositorySample", "RepositorySample", "{8388E2C3-D78B-4908-9098-E48F1EBF8C9A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericRepository", "GenericRepository\GenericRepository.csproj", "{B6B30CD2-04A6-4279-9F19-E8EA01280AF2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericRepository", "GenericRepository\GenericRepository.csproj", "{B6B30CD2-04A6-4279-9F19-E8EA01280AF2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericRepository.EF", "GenericRepository.EF\GenericRepository.EF.csproj", "{02B29E22-4568-4FFA-8FC1-9F6AE1E767B9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericRepository.EF", "GenericRepository.EF\GenericRepository.EF.csproj", "{02B29E22-4568-4FFA-8FC1-9F6AE1E767B9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyApp.DAL", "MyApp.DAL\MyApp.DAL.csproj", "{EE1ADF29-7CFF-4867-9B20-E8BE98226041}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyApp.DAL", "MyApp.DAL\MyApp.DAL.csproj", "{EE1ADF29-7CFF-4867-9B20-E8BE98226041}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyApp", "MyApp\MyApp.csproj", "{9C8A155E-4B1B-4116-9F31-330817EAE52E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyApp", "MyApp\MyApp.csproj", "{9C8A155E-4B1B-4116-9F31-330817EAE52E}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Reflections", "Reflections", "{56D316F5-798A-4BCA-A341-3A05520FA231}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Taschenrechner", "Taschenrechner\Taschenrechner.csproj", "{8F886508-BB30-4A48-8BDF-48D7B0BA21EB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Taschenrechner", "Taschenrechner\Taschenrechner.csproj", "{8F886508-BB30-4A48-8BDF-48D7B0BA21EB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaschenrechnerApp", "TaschenrechnerApp\TaschenrechnerApp.csproj", "{AA1ADA60-8543-43AE-93DD-DFEFDC74AE00}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TaschenrechnerApp", "TaschenrechnerApp\TaschenrechnerApp.csproj", "{AA1ADA60-8543-43AE-93DD-DFEFDC74AE00}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PluginPattern", "PluginPattern", "{9046CBAC-347E-40B9-B748-85997D90E44B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator.PluginBase", "Calculator.PluginBase\Calculator.PluginBase.csproj", "{6D8EB9FB-0919-4BE2-B8C2-5625A213B3FC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Calculator.PluginBase", "Calculator.PluginBase\Calculator.PluginBase.csproj", "{6D8EB9FB-0919-4BE2-B8C2-5625A213B3FC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator.App", "Calculator.App\Calculator.App.csproj", "{5C300343-EAE2-40DF-B19B-8EDEDB14C6C8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Calculator.App", "Calculator.App\Calculator.App.csproj", "{5C300343-EAE2-40DF-B19B-8EDEDB14C6C8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator.AdditionPlugIn", "Calculator.AdditionPlugIn\Calculator.AdditionPlugIn.csproj", "{632E932E-A407-431D-8170-6720054B29A7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Calculator.AdditionPlugIn", "Calculator.AdditionPlugIn\Calculator.AdditionPlugIn.csproj", "{632E932E-A407-431D-8170-6720054B29A7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Generics_SolarSystem", "Generics_SolarSystem\Generics_SolarSystem.csproj", "{B6E534B3-09F0-41C8-9131-5A4F54177239}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Generic_SolarSystemSample", "Generic_SolarSystemSample\Generic_SolarSystemSample.csproj", "{3E030373-7364-4ACA-8F3F-CFC36903D651}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Erweiterungsmethoden und Linq_Lambda", "Erweiterungsmethoden und Linq_Lambda", "{4E5F1CE7-0847-4361-ABA8-42DCB9B8D8BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtentionMethodsSample", "ExtentionMethodsSample\ExtentionMethodsSample.csproj", "{0F83C2E1-8DE3-4235-BC21-F1C5A649299F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqLambdaSample", "LinqLambdaSample\LinqLambdaSample.csproj", "{9955BA22-4C67-4EB7-AEE0-614FD1F364C4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NullableDatentypen", "NullableDatentypen", "{BE22C8C5-E298-4C01-90F2-37CCE0344091}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NullableDatatypesSample", "NullableDatatypesSample\NullableDatatypesSample.csproj", "{07F7F329-3EDC-4721-8A9E-68986016C1C3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Serialisierung", "Serialisierung", "{3F13123B-6882-41EF-BFCA-135D31D65802}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerializeSample", "SerializeSample\SerializeSample.csproj", "{3A59A04F-770A-4C37-A25A-A09AB19346C0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Records", "Records", "{294982C2-184F-49BA-A640-481EA9176A10}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloRecords", "HelloRecords\HelloRecords.csproj", "{564DB3F3-0412-4499-B515-98398EE2EFD6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -322,6 +344,34 @@ Global
 		{632E932E-A407-431D-8170-6720054B29A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{632E932E-A407-431D-8170-6720054B29A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{632E932E-A407-431D-8170-6720054B29A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6E534B3-09F0-41C8-9131-5A4F54177239}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6E534B3-09F0-41C8-9131-5A4F54177239}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6E534B3-09F0-41C8-9131-5A4F54177239}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6E534B3-09F0-41C8-9131-5A4F54177239}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E030373-7364-4ACA-8F3F-CFC36903D651}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E030373-7364-4ACA-8F3F-CFC36903D651}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E030373-7364-4ACA-8F3F-CFC36903D651}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E030373-7364-4ACA-8F3F-CFC36903D651}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F83C2E1-8DE3-4235-BC21-F1C5A649299F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F83C2E1-8DE3-4235-BC21-F1C5A649299F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F83C2E1-8DE3-4235-BC21-F1C5A649299F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F83C2E1-8DE3-4235-BC21-F1C5A649299F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9955BA22-4C67-4EB7-AEE0-614FD1F364C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9955BA22-4C67-4EB7-AEE0-614FD1F364C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9955BA22-4C67-4EB7-AEE0-614FD1F364C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9955BA22-4C67-4EB7-AEE0-614FD1F364C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07F7F329-3EDC-4721-8A9E-68986016C1C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07F7F329-3EDC-4721-8A9E-68986016C1C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07F7F329-3EDC-4721-8A9E-68986016C1C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07F7F329-3EDC-4721-8A9E-68986016C1C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A59A04F-770A-4C37-A25A-A09AB19346C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A59A04F-770A-4C37-A25A-A09AB19346C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A59A04F-770A-4C37-A25A-A09AB19346C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A59A04F-770A-4C37-A25A-A09AB19346C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{564DB3F3-0412-4499-B515-98398EE2EFD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{564DB3F3-0412-4499-B515-98398EE2EFD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{564DB3F3-0412-4499-B515-98398EE2EFD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{564DB3F3-0412-4499-B515-98398EE2EFD6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -377,6 +427,13 @@ Global
 		{6D8EB9FB-0919-4BE2-B8C2-5625A213B3FC} = {9046CBAC-347E-40B9-B748-85997D90E44B}
 		{5C300343-EAE2-40DF-B19B-8EDEDB14C6C8} = {9046CBAC-347E-40B9-B748-85997D90E44B}
 		{632E932E-A407-431D-8170-6720054B29A7} = {9046CBAC-347E-40B9-B748-85997D90E44B}
+		{B6E534B3-09F0-41C8-9131-5A4F54177239} = {61C3043B-8197-409F-B48E-7A61E76DC8E9}
+		{3E030373-7364-4ACA-8F3F-CFC36903D651} = {61C3043B-8197-409F-B48E-7A61E76DC8E9}
+		{0F83C2E1-8DE3-4235-BC21-F1C5A649299F} = {4E5F1CE7-0847-4361-ABA8-42DCB9B8D8BD}
+		{9955BA22-4C67-4EB7-AEE0-614FD1F364C4} = {4E5F1CE7-0847-4361-ABA8-42DCB9B8D8BD}
+		{07F7F329-3EDC-4721-8A9E-68986016C1C3} = {BE22C8C5-E298-4C01-90F2-37CCE0344091}
+		{3A59A04F-770A-4C37-A25A-A09AB19346C0} = {3F13123B-6882-41EF-BFCA-135D31D65802}
+		{564DB3F3-0412-4499-B515-98398EE2EFD6} = {294982C2-184F-49BA-A640-481EA9176A10}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F1D6B11C-1CC6-4641-8330-23DC21076320}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "47mFaaczDRsEgw5kaJf/VgFN9+EZ9V5yyuDJazlqlrCxKtQDf+wHWxKNsACqwaCPuhXl3C+Z+WBS7OrDCylVsw==",
+  "success": true,
+  "projectFilePath": "C:\\Aktueller Kurs\\CSharp_Fortgeschritten_KW41_ppedv\\CSharp_Advanced_Kurs\\SerializeSample\\SerializeSample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kw4\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
